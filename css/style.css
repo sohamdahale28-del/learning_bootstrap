@@ -1,3 +1,33 @@
 .b_bg{
-    background-color:#0A223A;
+    background-color:rgb(85, 2, 74);
+    color:white;
+    
+}
+.t_color1{
+    color:#0A223A;
+    list-style: none;
+}
+li{
+    list-style-type: none;
+}
+.h_hover:hover{
+    background-color:rgb(85, 2, 74); 
+    color:white;
+
+}
+.i_size{
+    height:10px;
+}
+h2{
+    color:rgba(187, 33, 169, 0.943);
+    font-weight: 200;
+    font-size: 50px;
+}
+.p_border{
+    box-shadow:rgba(236, 233, 233, 0.987)1px 0px 1px 1px;
+}
+.f_size{
+    font-weight:100;
+    font-size: 20px;
+    width:3000px;
 }
