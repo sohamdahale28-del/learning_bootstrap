@@ -20,7 +20,7 @@ li{
 }
 h2{
     color:rgba(187, 33, 169, 0.943);
-    font-weight: 200;
+    font-weight:300;
     font-size: 50px;
 }
 .p_border{
@@ -28,6 +28,11 @@ h2{
 }
 .f_size{
     font-weight:100;
-    font-size: 20px;
-    width:3000px;
+    font-size: 22px;
+    width:3000;
+}
+.text{
+    margin-top:20px;
+    font-weight: 300;
+    font-size:20px;
 }
