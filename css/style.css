@@ -1,8 +1,17 @@
-.b_bg{
-    background-color:rgb(85, 2, 74);
-    color:white;
-    
+
+.b_bg{ 
+    background-color:#0A223A;
+    color: white;
+    position:sticky;
 }
+.b_btn{
+    background-color:#0A223A;
+    color:white;
+    border-radius:5%;
+    border-color:#0A223A;
+}    
+    
+
 .t_color1{
     color:#0A223A;
     list-style: none;
@@ -11,16 +20,21 @@ li{
     list-style-type: none;
 }
 .h_hover:hover{
-background-color: rgb(85,2,74);
+background-color:#0A223A;
 color: white;
 }
 .i_size{
     height:10px;
 }
 h2{
-    color:rgba(187, 33, 169, 0.943);
+    color:#0A223A;
     font-weight:300;
     font-size: 50px;
+}
+.p_sticky{
+    position: sticky;
+    top: 0px;
+    z-index: 1000;
 }
 .p_border{
     box-shadow:rgba(236, 233, 233, 0.987)1px 0px 1px 1px;
@@ -43,6 +57,9 @@ h2{
 .s_hover:hover{
      transform: scale(1);
      border-radius:5%;
-     background-color: rgb(85, 2, 74);
-    border:solid rgb(85, 2, 74);
+     background-color:#0A223A;
+    border:solid #0A223A;
+}
+.nav-link:hover{
+    border:1px solid white;
 }
