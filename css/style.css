@@ -63,3 +63,27 @@ h2{
 .nav-link:hover{
     border:1px solid white;
 }
+.s_hover1:hover{
+    transform:scale3d(5);
+    
+  
+
+}
+.p_text{
+    text-align: center;
+    background-color: #0A223A;
+    border-radius:10%;
+    color: white;
+}
+.a_align{
+    text-align: center;
+
+}
+.t_shodow{
+  text-shadow: 1px 0px 0px rgba(35, 3, 105, 0.896);
+  color: #0A223A;
+}
+.navbar-toggler{
+    color: white;
+    border-color: white;
+}
