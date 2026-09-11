@@ -38,6 +38,7 @@ h2{
 }
 .p_border{
     box-shadow:rgba(236, 233, 233, 0.987)1px 0px 1px 1px;
+    position:center;
 }
 .f_size{
     font-weight:100;
@@ -63,12 +64,11 @@ h2{
 .nav-link:hover{
     border:1px solid white;
 }
-.s_hover1:hover{
-    transform:scale3d(5);
-    
+
+
   
 
-}
+
 .p_text{
     text-align: center;
     background-color: #0A223A;
